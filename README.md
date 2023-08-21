@@ -18,7 +18,7 @@ which points to the next node in line of nodes. Operations that can be performed
 singly linked lists include insertion, deletion and traversal.
 [https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list]
 
-## doubly list
+## doubly linked list
 
 In a 'doubly linked list', each node contains, besides the next-node link, a second link field
 pointing to the 'previous' node in the sequence. The two links may be called 'forward('s') and
